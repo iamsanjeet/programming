@@ -1,0 +1,15 @@
+Customer Can:
+1. See available bikes
+2. Rent bike on hourly, daily or weekly basis
+3. Family Rental discount
+
+
+Assumptions:
+1. Any customer requests rental for any one type i.e hourly, monthly or weekly
+
+
+
+Design:
+
+Customer class - To track customer details, no of bikes rented, rental time, rental basis
+BikeRental class - To track bike stock, book/release inventory
