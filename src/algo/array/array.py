@@ -27,5 +27,10 @@ def get_pair_count_2(arr, sum):
     return count/2
 if __name__ == '__main__':
     a = [1,5,7,-1]
-    print get_pair_count_1(a, 6)
-    print get_pair_count_2(a, 6)
+    print(get_pair_count_1(a, 6))
+    print(get_pair_count_2(a, 6))
+    #
+    # https: // www.hackerrank.com / challenges / dynamic - array / problem?h_r = next - challenge & h_v = zen
+    # https: // github.com / iamsanjeet / programming / blob / master / src / array.py
+    #
+    #
